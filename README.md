@@ -20,7 +20,7 @@ It follows a **normalized relational design** to ensure scalability and avoid re
 
 ## 🖼️ ER Diagram
 
-![Parking System ER Diagram][#](<Screenshot 2026-04-09 at 8.59.07 PM.png>)
+[Parking System ER Diagram](<Screenshot 2026-04-09 at 8.59.07 PM.png>)
 
 ---
 
