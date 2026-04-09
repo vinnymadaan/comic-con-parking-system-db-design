@@ -27,5 +27,6 @@ It follows a **normalized relational design** to ensure scalability and avoid re
 ## 🔗 Eraser Diagram Link
 
 👉 Add your diagram link here:
-`https://app.eraser.io/workspace/avP9bGlFucrbz4njueGi`
+[Eraser link](https://app.eraser.io/workspace/avP9bGlFucrbz4njueGi)
+
 
